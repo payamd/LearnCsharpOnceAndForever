@@ -46,6 +46,7 @@
     <Compile Include="max of serries.cs" />
     <Compile Include="MAxOfTwo.cs" />
     <Compile Include="orientation.cs" />
+    <Compile Include="PList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Text.cs" />
