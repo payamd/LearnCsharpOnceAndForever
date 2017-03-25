@@ -18,9 +18,10 @@ namespace LearnCsharpOneTimeAndForever
             //Console.WriteLine(   PList.heyphen());
             //PList.dublicate();
             //PList.classnamemaker();
-            PList.vowel();
-            Console.ReadLine();
-
+            //PList.vowel();
+            //Console.ReadLine();
+            max_of_serries m = new max_of_serries();
+            m.getmax();
         }
     }
 }
