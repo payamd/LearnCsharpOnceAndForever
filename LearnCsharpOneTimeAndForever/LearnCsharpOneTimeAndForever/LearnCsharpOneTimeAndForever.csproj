@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Postmsg.cs" />
+    <Compile Include="Classes\Stack.cs" />
     <Compile Include="Classes\Stopwatch.cs" />
     <Compile Include="Classes\max of serries.cs" />
     <Compile Include="Classes\MAxOfTwo.cs" />

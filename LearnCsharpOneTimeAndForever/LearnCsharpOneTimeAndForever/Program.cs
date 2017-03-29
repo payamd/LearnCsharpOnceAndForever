@@ -43,27 +43,34 @@ namespace LearnCsharpOneTimeAndForever
 
 
 
-            var pm = new Postmsg("firstmesg","salam chetori pesar?");
-            while (true)
-            {
-                var input = Console.ReadLine();
-                if (input == "end")
-                {
-                    break;
-                }
-                else if (input == "up")
-                {
-                    pm.up_vote();
-                }
-                else if (input == "down")
-                {
-                    pm.updown_vote();
-                }
-                else if (input == "vote")
-                {
-                   Console.WriteLine("votes  " + pm.vote());
-                }
-            }
+            //var pm = new Postmsg("firstmesg","salam chetori pesar?");
+            //while (true)
+            //{
+            //    var input = Console.ReadLine();
+            //    if (input == "end")
+            //    {
+            //        break;
+            //    }
+            //    else if (input == "up")
+            //    {
+            //        pm.up_vote();
+            //    }
+            //    else if (input == "down")
+            //    {
+            //        pm.updown_vote();
+            //    }
+            //    else if (input == "vote")
+            //    {
+            //       Console.WriteLine("votes  " + pm.vote());
+            //    }
+            //}
+
+
+
+
+
+
+
 
 
 
