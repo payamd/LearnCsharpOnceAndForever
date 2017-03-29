@@ -8,6 +8,33 @@ namespace LearnCsharpOneTimeAndForever.Classes
 {
     class Stack
     {
+        public List<object> list = new List<object>();
+
+        public void Push(object obj)
+        {
+            try
+            {
+                list.Add(obj);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("we have problem here !" + e);
+                throw;
+            }
+           
+        }
+
+        public object Pop()
+        {
+            var buffer = list[list.Count-1];
+            list.Remove(list[list.Count-1]);
+            return buffer;
+        }
+
+        public void Clear(object obj)
+        {
+            list.Clear();
+        }
     }
 }
 //Exercise: Design a Stack
