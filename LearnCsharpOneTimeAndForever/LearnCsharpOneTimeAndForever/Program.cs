@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using LearnCsharpOneTimeAndForever.Classes;
@@ -24,7 +25,6 @@ namespace LearnCsharpOneTimeAndForever
             //max_of_serries m = new max_of_serries();
             //m.getmax();
 
-
             //var sw = new Stopwatch();
             //while (true) {
             //    var input = Console.ReadLine();
@@ -40,8 +40,6 @@ namespace LearnCsharpOneTimeAndForever
             //        sw.stop();
             //    }
             //}
-
-
 
             //var pm = new Postmsg("firstmesg","salam chetori pesar?");
             //while (true)
@@ -65,20 +63,33 @@ namespace LearnCsharpOneTimeAndForever
             //    }
             //}
 
+            //var stack = new Stack();
+            //stack.Push(1);
+            //stack.Push(2);
+            //stack.Push(3);
+            //Console.WriteLine(stack.Pop());
+            //Console.WriteLine(stack.Pop());
+            //Console.WriteLine(stack.Pop());
+
+            //Console.ReadLine();
+
+            //var dbO = new OracleDbConnection();
+            //var dbS = new OracleDbConnection();
+            //dbO.ConnectionString_open();
+            //dbO.ConnectionString_close();
+            //dbS.ConnectionString_open();
+            //dbS.ConnectionString_close();
 
 
-            var stack = new Stack();
-            stack.Push(1);
-            stack.Push(2);
-            stack.Push(3);
-            Console.WriteLine(stack.Pop());
-            Console.WriteLine(stack.Pop());
-            Console.WriteLine(stack.Pop());
+            var workflow = new WorkFlow();
+            workflow.Add(new Videouploader());
+            workflow.Add(new Sendemail());
+            workflow.Add(new Callwebservice());
 
+            var engine = new WorkFlowEngine();
+            engine.Run(workflow);
 
             Console.ReadLine();
-
-
 
 
         }
