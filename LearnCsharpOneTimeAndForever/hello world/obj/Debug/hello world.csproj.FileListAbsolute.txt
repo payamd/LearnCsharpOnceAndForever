@@ -1,0 +1,7 @@
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\hello world\bin\Debug\hello world.exe.config
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\hello world\bin\Debug\hello world.exe
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\hello world\bin\Debug\hello world.pdb
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\hello world\obj\Debug\hello world.csprojResolveAssemblyReference.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\hello world\obj\Debug\hello world.csproj.CoreCompileInputs.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\hello world\obj\Debug\hello world.exe
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\hello world\obj\Debug\hello world.pdb

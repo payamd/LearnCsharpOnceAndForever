@@ -1,0 +1,7 @@
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\guessGame\bin\Debug\guessGame.exe.config
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\guessGame\bin\Debug\guessGame.exe
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\guessGame\bin\Debug\guessGame.pdb
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\guessGame\obj\Debug\guessGame.csprojResolveAssemblyReference.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\guessGame\obj\Debug\guessGame.csproj.CoreCompileInputs.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\guessGame\obj\Debug\guessGame.exe
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\guessGame\obj\Debug\guessGame.pdb
