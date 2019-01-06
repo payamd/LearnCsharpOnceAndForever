@@ -1,0 +1,7 @@
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\MaxOfSerries\bin\Debug\MaxOfSerries.exe.config
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\MaxOfSerries\bin\Debug\MaxOfSerries.exe
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\MaxOfSerries\bin\Debug\MaxOfSerries.pdb
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\MaxOfSerries\obj\Debug\MaxOfSerries.csprojResolveAssemblyReference.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\MaxOfSerries\obj\Debug\MaxOfSerries.csproj.CoreCompileInputs.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\MaxOfSerries\obj\Debug\MaxOfSerries.exe
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\MaxOfSerries\obj\Debug\MaxOfSerries.pdb

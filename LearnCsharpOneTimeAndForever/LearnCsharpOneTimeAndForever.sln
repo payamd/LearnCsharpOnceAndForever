@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello world", "hello world\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guessGame", "guessGame\guessGame.csproj", "{ED751DE6-D071-43F1-9FE7-484F603AAFB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxOfSerries", "MaxOfSerries\MaxOfSerries.csproj", "{087465EE-933D-4860-B0F4-89E525867843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch.csproj", "{28E899B5-8686-4FDD-88E5-34E12B33E2F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{ED751DE6-D071-43F1-9FE7-484F603AAFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED751DE6-D071-43F1-9FE7-484F603AAFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED751DE6-D071-43F1-9FE7-484F603AAFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087465EE-933D-4860-B0F4-89E525867843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087465EE-933D-4860-B0F4-89E525867843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087465EE-933D-4860-B0F4-89E525867843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087465EE-933D-4860-B0F4-89E525867843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E899B5-8686-4FDD-88E5-34E12B33E2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E899B5-8686-4FDD-88E5-34E12B33E2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E899B5-8686-4FDD-88E5-34E12B33E2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E899B5-8686-4FDD-88E5-34E12B33E2F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

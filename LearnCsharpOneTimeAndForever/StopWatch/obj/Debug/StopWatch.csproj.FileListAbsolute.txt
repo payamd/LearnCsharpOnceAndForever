@@ -1,0 +1,7 @@
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\StopWatch\bin\Debug\StopWatch.exe.config
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\StopWatch\bin\Debug\StopWatch.exe
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\StopWatch\bin\Debug\StopWatch.pdb
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\StopWatch\obj\Debug\StopWatch.exe
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\StopWatch\obj\Debug\StopWatch.pdb
