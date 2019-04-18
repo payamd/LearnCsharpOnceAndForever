@@ -14,6 +14,7 @@ namespace MaxOfSerries
             var length = serries.Length;
             var trimed = serries.Split(',');
             var max =0;
+            Console.WriteLine(trimed);
             foreach (var character in trimed)
             {
                 if (Convert.ToInt32(character)  > max)

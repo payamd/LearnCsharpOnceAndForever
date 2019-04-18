@@ -1,0 +1,11 @@
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\obj\Debug\netcoreapp2.1\2K19.csprojAssemblyReference.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\obj\Debug\netcoreapp2.1\2K19.csproj.CoreCompileInputs.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\obj\Debug\netcoreapp2.1\2K19.AssemblyInfoInputs.cache
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\obj\Debug\netcoreapp2.1\2K19.AssemblyInfo.cs
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\bin\Debug\netcoreapp2.1\2K19.deps.json
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\bin\Debug\netcoreapp2.1\2K19.runtimeconfig.json
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\bin\Debug\netcoreapp2.1\2K19.runtimeconfig.dev.json
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\bin\Debug\netcoreapp2.1\2K19.dll
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\bin\Debug\netcoreapp2.1\2K19.pdb
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\obj\Debug\netcoreapp2.1\2K19.dll
+D:\My Project\LearnCsharpOneTimeAndForever\LearnCsharpOneTimeAndForever\2K19\2K19\2K19\obj\Debug\netcoreapp2.1\2K19.pdb
