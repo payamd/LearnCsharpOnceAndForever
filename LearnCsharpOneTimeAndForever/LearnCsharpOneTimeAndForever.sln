@@ -13,6 +13,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxOfSerries", "MaxOfSerrie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch.csproj", "{28E899B5-8686-4FDD-88E5-34E12B33E2F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "..\..\..\Downloads\CSharpIntermediate\Section5\Polymorphism\Polymorphism\Polymorphism.csproj", "{AA7BEBE3-84E4-44A1-8AA2-EBF2D885FEF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensibility", "..\..\..\Downloads\CSharpIntermediate\Section5\Extensibility\Extensibility\Extensibility.csproj", "{3C0FE71E-E007-4388-AD49-7572CE51E543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInheritance", "..\..\..\Downloads\CSharpIntermediate\Section5\MultipleInheritance\MultipleInheritance\MultipleInheritance.csproj", "{E0193741-1342-406D-A784-BB1EC1DF546A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability", "..\..\..\Downloads\CSharpIntermediate\Section5\Testability\Testability\Testability.csproj", "{126ED8CD-C761-490C-97E2-D15968527CC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability.UnitTests", "..\..\..\Downloads\CSharpIntermediate\Section5\Testability\Testability.UnitTests\Testability.UnitTests.csproj", "{92BB2969-80F5-4B38-A361-968BDB5E134F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +49,26 @@ Global
 		{28E899B5-8686-4FDD-88E5-34E12B33E2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28E899B5-8686-4FDD-88E5-34E12B33E2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28E899B5-8686-4FDD-88E5-34E12B33E2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7BEBE3-84E4-44A1-8AA2-EBF2D885FEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7BEBE3-84E4-44A1-8AA2-EBF2D885FEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7BEBE3-84E4-44A1-8AA2-EBF2D885FEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7BEBE3-84E4-44A1-8AA2-EBF2D885FEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0FE71E-E007-4388-AD49-7572CE51E543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0FE71E-E007-4388-AD49-7572CE51E543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0FE71E-E007-4388-AD49-7572CE51E543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0FE71E-E007-4388-AD49-7572CE51E543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0193741-1342-406D-A784-BB1EC1DF546A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0193741-1342-406D-A784-BB1EC1DF546A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0193741-1342-406D-A784-BB1EC1DF546A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0193741-1342-406D-A784-BB1EC1DF546A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126ED8CD-C761-490C-97E2-D15968527CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126ED8CD-C761-490C-97E2-D15968527CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126ED8CD-C761-490C-97E2-D15968527CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126ED8CD-C761-490C-97E2-D15968527CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92BB2969-80F5-4B38-A361-968BDB5E134F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BB2969-80F5-4B38-A361-968BDB5E134F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BB2969-80F5-4B38-A361-968BDB5E134F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BB2969-80F5-4B38-A361-968BDB5E134F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
